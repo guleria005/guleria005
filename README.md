@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guleria005
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning python and HTML
+- 🌱 I’m currently learning Python,HTML,CSS,JavaScript
 - 💞️ I’m looking to collaborate on a project
 - 📫 you can reach me on instagram- guleria_005
 
